@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: pqsbt-ihjgs
+created: 2025-05-19T06:26:16Z
